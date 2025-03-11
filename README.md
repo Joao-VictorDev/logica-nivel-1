@@ -17,4 +17,4 @@ Este repositório contém uma série de exercícios de lógica de programação 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/logica-nivel-1-logica.git
+   git clone https://github.com/Joao-VictorDev/logica-nivel-1.git
